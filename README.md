@@ -1,4 +1,4 @@
-- 😄 Hello, I’m @ClauBau12
+### 😄 Hello, I’m @ClauBau12
 
 <!---
 ClauBau12/ClauBau12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
